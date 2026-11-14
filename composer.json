@@ -1,9 +1,17 @@
 {
     "name": "four-bytes/four-fritz-http-client-php",
-    "description": "Modern PHP HTTP client for FritzBox API access",
+    "description": "PHP HTTP client for the AVM FRITZ!Box API",
     "type": "library",
     "license": "MIT",
-    "keywords": ["fritzbox", "fritz", "avm", "nas", "api", "http", "client"],
+    "keywords": [
+        "fritzbox",
+        "fritz",
+        "avm",
+        "nas",
+        "api",
+        "http-client",
+        "php"
+    ],
     "homepage": "https://github.com/four-bytes/four-fritz-http-client-php",
     "authors": [
         {
